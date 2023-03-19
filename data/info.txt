@@ -1,0 +1,1 @@
+Tu będą przechowywane dane. Ze względu na pojemność githuba nie da się przesyłać tak dużych ilości danych. => Każdy musi pobrać samemu zbiór danych. Link znajduje się w plikach w katalogu documentation.
