@@ -19,3 +19,5 @@ data/archive/uber-raw-data-jul14.csv
 data/archive/uber-raw-data-jun14.csv
 data/archive/uber-raw-data-may14.csv
 data/archive/uber-raw-data-sep14.csv
+data/converted/other-American_B01362.csv
+*.csv
