@@ -21,3 +21,5 @@ data/archive/uber-raw-data-may14.csv
 data/archive/uber-raw-data-sep14.csv
 data/converted/other-American_B01362.csv
 *.csv
+src/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+src/.ipynb_checkpoints/date_analyzer-checkpoint.ipynb
