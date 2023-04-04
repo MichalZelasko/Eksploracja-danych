@@ -1,1 +1,21 @@
 Tu będą przechowywane dane. Ze względu na pojemność githuba nie da się przesyłać tak dużych ilości danych. => Każdy musi pobrać samemu zbiór danych. Link znajduje się w plikach w katalogu documentation.
+
+Struktura katalogu:
+>>>archive
+>>>>>>>>>>pliki
+
+>>>cab_rides
+>>>>>>>>>>cab_rides.csv
+
+>>>converted
+>>>>>>>>>>przekonwertowane pliki
+
+>>>data_refactored
+>>>>>>>>>>pliki wrzucone przez Maćka na dysk google'a
+
+>>>save
+>>>>>>>>>>other-Federal_02216.csv
+
+>>>archive.zip
+
+>>>info.txt
