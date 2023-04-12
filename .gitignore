@@ -28,3 +28,5 @@ src/.ipynb_checkpoints/geo_visualization-checkpoint.ipynb
 src/geotest.ipynb
 src/geotest.py
 src/.ipynb_checkpoints/geo_visualizer_code-checkpoint.ipynb
+src/.ipynb_checkpoints/pca_analyzer-checkpoint.ipynb
+data/cab_rides/weather.xls

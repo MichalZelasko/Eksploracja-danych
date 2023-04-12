@@ -6,6 +6,7 @@ Struktura katalogu:
 
 >>>cab_rides
 >>>>>>>>>>cab_rides.csv
+>>>>>>>>>>weather.xls
 
 >>>converted
 >>>>>>>>>>przekonwertowane pliki
