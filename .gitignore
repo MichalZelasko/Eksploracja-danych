@@ -30,3 +30,4 @@ src/geotest.py
 src/.ipynb_checkpoints/geo_visualizer_code-checkpoint.ipynb
 src/.ipynb_checkpoints/pca_analyzer-checkpoint.ipynb
 data/cab_rides/weather.xls
+data/cab_rides/.~lock.cab_rides.csv\#
